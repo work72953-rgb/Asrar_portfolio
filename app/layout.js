@@ -21,7 +21,7 @@ const changa = Changa({
 export const metadata = {
   title: "Asrar Marair",
   description: "Personal Portfolio",
-  icons: [{ rel: "icon", url: "icon.ico",  sizes: "128 x 128"  }],
+  icons: [{ rel: "icon", url: "favicon.icon",  sizes: "128 x 128"  }],
 };
 
 export default function RootLayout({ children }) {
