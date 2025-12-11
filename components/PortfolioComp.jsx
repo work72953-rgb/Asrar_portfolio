@@ -168,7 +168,7 @@ export default function PortfolioComp() {
           </div>
         </div>
       </div>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
